@@ -7,3 +7,19 @@ New branch called Banky was created with `git checkout -b banky`
 
 ## Make change and commit
 new HTML, CSS, AND JAVASCRIPT was added to add and commit with `git add .` and `git commit -m <message>`
+
+## fetch and merge
+To fetch using `git fetch` 
+merge with `git merge origin branch`
+
+## Rename branch
+Rename branch with `git branch -m bankky`
+
+## repository link
+[gitHub Repository] ([https://github.com/Azeezbank/FLEXISAF-WK2_ASSIGN.git])
+
+## merge to main
+Merge with `git merge main`
+
+## delete branch
+Delete wit `git branch -d bank`
