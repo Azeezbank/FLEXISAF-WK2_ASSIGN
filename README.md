@@ -23,3 +23,7 @@ Merge with `git merge main`
 
 ## delete branch
 Delete wit `git branch -d bank`
+
+## Revert commit
+I revert last commit with `git revert HEAD`
+To revert certain commit i will use `git revert <commit id>
